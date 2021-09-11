@@ -1,0 +1,28 @@
+.container-header{
+  background-color: purple;
+  padding: 35px;
+  text-align: center;
+  color: white;
+  width: 100%;
+
+}
+
+.india ul li{
+  background-color: #00BFFF;
+  border-radius: 3px;
+  height: 50px;
+  list-style-type: none;
+  color: white;
+  font-size: 20px; 
+
+}
+.about{
+  font-size: 16px;
+
+}
+.tourist{
+  background-color: #00BFFF;
+  color: white;
+  border-redius:3px;
+  font-size: 17px;
+} 
